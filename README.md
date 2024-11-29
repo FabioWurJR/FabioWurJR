@@ -1,5 +1,5 @@
 ## Olá, meu nome é Fábio Wurlitzer Jr 🤝
-Atualmente estou no terceiro semestre de ADS na ULBRA - Torres 👨‍💻<br/>
+Atualmente estou no quinto semestre de ADS na ULBRA - Torres 👨‍💻<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fábio-wurlitzer-jr-43b346232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiow.jr/)
